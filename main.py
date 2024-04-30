@@ -9,6 +9,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.utils.benchmark as benchmark
+from pytorch_quantization import quant_modules
 
 from model.nerf_raybased import NeRF, NeRF_v3_2, PositionalEmbedder, PointSampler
 from dataset.load_llff import load_llff_data
