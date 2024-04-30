@@ -1,4 +1,4 @@
-# R2L: Distilling NeRF to NeLF
+# R2L: Distilling NeRF to NeLF (base codebase)
 
 ### [Project](https://snap-research.github.io/R2L/) | [ArXiv](https://arxiv.org/abs/2203.17261) | [PDF](https://arxiv.org/pdf/2203.17261.pdf) 
 
@@ -21,7 +21,10 @@ This repository is for the new neral light field (NeLF) method introduced in the
 </div>
 
 
-## Reproducing Our Results
+
+# EML Project (mine)
+
+## Reproducing  Results
 Below we only show the example of scene `lego`. There are other scenes in the original repo, but for simplicity, I just use lego.
 
 ### 0. Download the code
